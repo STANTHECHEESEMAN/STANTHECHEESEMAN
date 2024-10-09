@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @STANTHECHEESEMAN
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning coding mainly LUA and JS
-- 💞️ I’m looking to collaborate on any cookie clicker mods (mainly javascript mods)
-- 📫 How to reach me alexdegler16@gmail.com or alexdegler17@gmail.com
-- 🤝 I always try to give credit on archives or edits
+# cheesy-website
+This is my website
+https://stanthecheeseman.github.io/cheesy-website/
